@@ -3,7 +3,7 @@ package creational.abstractFactory;
 import creational.abstractFactory.Banking.BankingTeamFactory;
 import creational.abstractFactory.WebSite.WebSiteTeamFactory;
 
-public class AbstractFactory {
+public class ProjectTeamCreator {
     public static void main(String[] args) {
         ProjectTeamFactory projectTeamFactory = new BankingTeamFactory();
         Developer developer = projectTeamFactory.getDeveloper();

@@ -1,6 +1,6 @@
-package creational.Prototype;
+package creational.prototype;
 
-public class VersionControlRunner {
+public class ProjectRunner {
     public static void main(String[] args) {
         Project master = new Project(1, "SuperProject", "SourceCode sourCode = new SourceCode();");
 
