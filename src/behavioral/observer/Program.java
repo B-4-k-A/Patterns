@@ -1,6 +1,6 @@
 package behavioral.observer;
 
-public class Main {
+public class Program {
     public static void main(String[] args) {
         var bank1 = new ConcreteBank();
         var bank2 = new ConcreteBank();

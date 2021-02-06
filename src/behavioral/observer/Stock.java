@@ -1,7 +1,6 @@
 package behavioral.observer;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.Random;
 
 public class Stock implements Notifier {
