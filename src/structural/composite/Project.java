@@ -28,6 +28,5 @@ public class Project {
         System.out.println("delete " + thirdCppDev);
 
         webSiteCreatorCompany.createProject();
-
     }
 }
