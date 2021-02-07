@@ -1,5 +1,5 @@
 # Паттерны проектирования
-1. Пораждающие
+- Пораждающие
    - [Фабричный метод](https://github.com/Sii1K/Patterns/tree/master/src/creational/factory)
    - [Абстракная фабрика](https://github.com/Sii1K/Patterns/tree/master/src/creational/abstractFactory)
    - [Строитель](https://github.com/Sii1K/Patterns/tree/master/src/creational/builder)
